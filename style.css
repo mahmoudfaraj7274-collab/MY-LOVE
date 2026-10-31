@@ -1,0 +1,13 @@
+
+
+
+.Liebesbrief{
+    max-width: 400px;
+    margin: 40px auto;
+    padding: 25px;
+    background: rgba(255, 255, 255, 0.85);
+    border: 2px solid #e99ab8;
+    border-radius: 20px;
+    box-shadow: 0 8px 25px #c77c9b55;
+    line-height: 1.8;
+}
